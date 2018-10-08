@@ -17,8 +17,8 @@
   "minimum-stability": "dev",
   "repositories": [
     {
-      "type": "vcs",
-      "url": "https://repo.channelpilot.com/projects/SHOP/repos/channelpilot_spryker/browse/ChannelPilot"
+      "type": "composer",
+      "url": "https://github.com/Rafael3086/channelpilot_spryker/tree/master/ChannelPilot"
     }
   ]
 }
