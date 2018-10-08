@@ -1,0 +1,24 @@
+{
+  "name": "spryker-eco/channel-pilot",
+  "description": "ChannelPilot module",
+  "require": {
+    "spryker/kernel": "^3.0.0"
+  },
+  "require-dev": {
+    "spryker/code-sniffer": "*",
+    "spryker/monolog": "*",
+    "spryker/queue": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "SprykerEco\\": "src/SprykerEco/"
+    }
+  },
+  "minimum-stability": "dev",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://repo.channelpilot.com/projects/SHOP/repos/channelpilot_spryker/browse/ChannelPilot"
+    }
+  ]
+}
